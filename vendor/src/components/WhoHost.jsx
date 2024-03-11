@@ -37,7 +37,7 @@ export default function WhoHost() {
   return (
     <div className='mx-8 my-7'>
         <div className='mt-7'>
-            <h3 className='text-primary-700 font-bold text-2xl'>Who you can host</h3>
+            <h3 className='text-black font-bold text-2xl'>Who you can host</h3>
         </div>
         <div className='mx-28 py-8'>
             <div className='flex flex-wrap justify-around gap-12'>
