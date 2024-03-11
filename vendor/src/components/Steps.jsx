@@ -16,8 +16,8 @@ export default function Steps() {
                     <img src={LogOutIcon} alt="" className="mx-auto object-cover" />
                 </div>
                 <div className='pb-16'>
-                    <h4 className='text-xl text-primary-700 font-bold pb-2'>Login</h4>
-                    <p className='text-xl  text-primary-600'> Access your organizer account securely to manage events and track analytics.</p>
+                    <h4 className='text-xl text-black font-bold pb-2'>Login</h4>
+                    <p className='text-xl  text-black'> Access your organizer account securely to manage events and track analytics.</p>
                 </div>
             </div>
 
