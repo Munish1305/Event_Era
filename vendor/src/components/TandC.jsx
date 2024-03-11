@@ -1,7 +1,7 @@
 export default function TandC() {
   return (
     <div className=" bg-grey-100 py-5">
-        <div className="px-8 py-4 text-primary-700">
+        <div className="px-8 py-4 text-black">
         <div className='mb-16'>
             <h3 className='font-bold text-2xl'>Terms and Conditions </h3>
         </div>
