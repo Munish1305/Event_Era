@@ -37,10 +37,10 @@ export default function Feature() {
   return (
     <div className='mx-8 my-7'>
         <div className='mx-80 text-center'>
-            <h2 className='px-40 text-5xl font-bold text-primary-600'>Unlock Your Vendor Potential: Where Events Meet Success.</h2>
+            <h2 className='px-40 text-5xl font-bold text-black'>Unlock Your Vendor Potential: Where Events Meet Success.</h2>
         </div>
         <div className='mt-7'>
-            <h3 className='text-primary-700 font-bold text-2xl'>Our Features</h3>
+            <h3 className='text-black font-bold text-2xl'>Our Features</h3>
         </div>
         <div className='mx-28 py-8'>
             <div className='flex flex-wrap justify-between gap-12'>
