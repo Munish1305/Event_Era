@@ -4,7 +4,7 @@ export default function Footers() {
     <div className='items-center py-6 bg-grey-100'>
       <div className='flex justify-center'>
         <img src={Rights} alt="copyright" className='pr-2'></img>
-        <h4 className='text-primary-700 pt-1 text-xl'> Copyright 2024. All rights reserved</h4>
+        <h4 className='text-black pt-1 text-xl'> Copyright 2024. All rights reserved</h4>
       </div>
     </div>
   )
