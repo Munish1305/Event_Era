@@ -2,7 +2,7 @@ const Testimonials = () => {
   return (
     <div className="mx-8 my-8">
       <div className='mb-36'>
-        <h3 className='text-primary-700 font-bold text-2xl'>Our Client Testimonial </h3>
+        <h3 className='text-black font-bold text-2xl'>Our Client Testimonial </h3>
       </div>
       <div className="gap-8 flex flex-col md:flex-row flex-wrap justify-between items-center mt-12">
         <div className="mb-8 text-center w-80 md:mb-0 shadow-lg">
